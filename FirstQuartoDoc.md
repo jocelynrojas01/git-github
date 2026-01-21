@@ -1,0 +1,21 @@
+# FirstQuartoDoc
+
+2026-01-21
+
+## Quarto Experiment
+
+## Header 1
+
+### Header 2
+
+#### Header 3
+
+*italics*
+
+**bold**
+
+``` r
+10+20
+```
+
+    [1] 30
